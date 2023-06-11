@@ -10,5 +10,5 @@ Thank you for your support!
 The project is open source, so anyone can contribute.
 There are a number of ways to help, even if you're not a developer. You can test the software, report bugs, and provide feedback.
 The project is still in the early stages, but it is making good progress.
-The goal is to eventually make ProjectSpotify available for all versions of macOS that Spotify had officially supported.
+The goal is to eventually make Oldify available for all versions of macOS that Spotify had officially supported.
 
