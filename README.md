@@ -12,3 +12,9 @@ There are a number of ways to help, even if you're not a developer. You can test
 The project is still in the early stages, but it is making good progress.
 The goal is to eventually make Oldify available for all versions of macOS that Spotify had officially supported.
 
+
+
+
+# Supported/Tested Versions (as of 06/11/2023)
+macOS Mavericks (10.9)
+
