@@ -1,5 +1,5 @@
-# ProjectSpotify
-Welcome to ProjectSpotify, a community-driven project to bring back Spotify for older versions of macOS, such as macOS 10.9.
+# Oldify
+Welcome to Oldify, a community-driven project to bring back Spotify for older versions of macOS, such as macOS 10.9.
 
 Spotify has officially discontinued support for older versions of macOS, but we believe that everyone should have access to the best music in the world. That's why we're working to create a version of Spotify that will work on older macOS versions.
 
